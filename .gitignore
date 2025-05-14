@@ -5,3 +5,9 @@
 .~lock*
 
 .conda
+
+llm_train_backup.csv
+llm_test_backup.csv
+
+test_exportado_llm.csv
+train_exportado_llm.csv
