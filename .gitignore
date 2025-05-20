@@ -11,3 +11,5 @@ llm_test_backup.csv.v1
 
 test_exportado_llm.csv
 train_exportado_llm.csv
+
+json/dictionaries/*
