@@ -4,7 +4,7 @@
 ## [1.3 Carga y limpieza de datos - Transformers](./1.3_Carga_limpieza_datos-Transformers.ipynb)
 ## [1.4 Carga y limpieza de datos - Diccionario y One Hot](./1.4_Carga_limpieza_datos-Dictionary-n-Onehot.ipynb)
 ## [2. Visualización de los datos](./2_Visualizacion_de_los_datos.ipynb)
-## [3. Model evaluation](./3_Model_evaluation.ipynb)
+## [3. Model Evaluation](./3_Model_Evaluation.ipynb)
 ## [4. Selección características y preprocesado](./4_Seleccion_caracteristicas_y_preprocesado.ipynb)
 ## [5. Entrenamiento y evaluación de los modelos TF-IDF](./5_Entrenamiento_y_evaluacion_modelos_TF_IDF.ipynb)
 ## [6. Entrenamiento y evaluación de los modelos Word2Vec](./6_Entrenamiento_y_evaluacion_modelos_word2Vec.ipynb)
